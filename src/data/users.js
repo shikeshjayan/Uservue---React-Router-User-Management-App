@@ -1,0 +1,32 @@
+const usersData = [
+  { id: 1, name: "John Doe", email: "john.doe@example.com", contact: "555-123-4567", address: "123 Main St, New York, NY", dateOfBirth: "1990-01-15", gender: "Male" },
+  { id: 2, name: "Jane Smith", email: "jane.smith@example.com", contact: "555-234-5678", address: "456 Oak Ave, Los Angeles, CA", dateOfBirth: "1988-05-22", gender: "Female" },
+  { id: 3, name: "Michael Brown", email: "michael.brown@example.com", contact: "555-345-6789", address: "789 Pine Rd, Chicago, IL", dateOfBirth: "1992-03-10", gender: "Male" },
+  { id: 4, name: "Emily Davis", email: "emily.davis@example.com", contact: "555-456-7890", address: "321 Maple St, Houston, TX", dateOfBirth: "1995-07-18", gender: "Female" },
+  { id: 5, name: "David Wilson", email: "david.wilson@example.com", contact: "555-567-8901", address: "654 Elm St, Phoenix, AZ", dateOfBirth: "1987-12-05", gender: "Male" },
+  { id: 6, name: "Sarah Johnson", email: "sarah.johnson@example.com", contact: "555-678-9012", address: "987 Cedar Ln, Philadelphia, PA", dateOfBirth: "1991-09-30", gender: "Female" },
+  { id: 7, name: "Chris Miller", email: "chris.miller@example.com", contact: "555-789-0123", address: "159 Walnut St, San Antonio, TX", dateOfBirth: "1989-11-20", gender: "Male" },
+  { id: 8, name: "Olivia Anderson", email: "olivia.anderson@example.com", contact: "555-890-1234", address: "753 Birch Rd, San Diego, CA", dateOfBirth: "1993-04-12", gender: "Female" },
+  { id: 9, name: "Daniel Thomas", email: "daniel.thomas@example.com", contact: "555-901-2345", address: "852 Spruce St, Dallas, TX", dateOfBirth: "1990-06-25", gender: "Male" },
+  { id: 10, name: "Sophia Martinez", email: "sophia.martinez@example.com", contact: "555-012-3456", address: "951 Chestnut Ave, San Jose, CA", dateOfBirth: "1994-02-14", gender: "Female" },
+  { id: 11, name: "James Taylor", email: "james.taylor@example.com", contact: "555-123-9876", address: "246 Willow St, Austin, TX", dateOfBirth: "1986-08-03", gender: "Male" },
+  { id: 12, name: "Isabella Moore", email: "isabella.moore@example.com", contact: "555-234-8765", address: "369 Poplar Rd, Jacksonville, FL", dateOfBirth: "1992-10-11", gender: "Female" },
+  { id: 13, name: "Matthew Jackson", email: "matthew.jackson@example.com", contact: "555-345-7654", address: "147 Fir St, Fort Worth, TX", dateOfBirth: "1988-12-19", gender: "Male" },
+  { id: 14, name: "Ava White", email: "ava.white@example.com", contact: "555-456-6543", address: "258 Hemlock Ln, Columbus, OH", dateOfBirth: "1991-03-27", gender: "Female" },
+  { id: 15, name: "Joshua Harris", email: "joshua.harris@example.com", contact: "555-567-5432", address: "369 Aspen Rd, Charlotte, NC", dateOfBirth: "1989-09-09", gender: "Male" },
+  { id: 16, name: "Mia Clark", email: "mia.clark@example.com", contact: "555-678-4321", address: "741 Sycamore St, San Francisco, CA", dateOfBirth: "1993-05-05", gender: "Female" },
+  { id: 17, name: "Alexander Lewis", email: "alexander.lewis@example.com", contact: "555-789-3210", address: "852 Redwood Ln, Indianapolis, IN", dateOfBirth: "1990-07-21", gender: "Male" },
+  { id: 18, name: "Charlotte Young", email: "charlotte.young@example.com", contact: "555-890-2109", address: "963 Dogwood Ave, Seattle, WA", dateOfBirth: "1992-11-16", gender: "Female" },
+  { id: 19, name: "Ethan Hall", email: "ethan.hall@example.com", contact: "555-901-1098", address: "159 Magnolia St, Denver, CO", dateOfBirth: "1987-01-30", gender: "Male" },
+  { id: 20, name: "Amelia King", email: "amelia.king@example.com", contact: "555-012-0987", address: "357 Pinecone Rd, Washington, DC", dateOfBirth: "1994-08-08", gender: "Female" },
+  { id: 21, name: "Benjamin Wright", email: "benjamin.wright@example.com", contact: "555-123-8765", address: "951 Oakwood St, Boston, MA", dateOfBirth: "1988-06-06", gender: "Male" },
+  { id: 22, name: "Harper Scott", email: "harper.scott@example.com", contact: "555-234-7654", address: "753 Maplewood Rd, Nashville, TN", dateOfBirth: "1991-12-12", gender: "Female" },
+  { id: 23, name: "Logan Green", email: "logan.green@example.com", contact: "555-345-6543", address: "852 Cedarwood Ln, Baltimore, MD", dateOfBirth: "1989-04-04", gender: "Male" },
+  { id: 24, name: "Evelyn Adams", email: "evelyn.adams@example.com", contact: "555-456-5432", address: "963 Oak St, Portland, OR", dateOfBirth: "1993-09-15", gender: "Female" },
+  { id: 25, name: "Lucas Baker", email: "lucas.baker@example.com", contact: "555-567-4321", address: "147 Pine St, Las Vegas, NV", dateOfBirth: "1990-02-02", gender: "Male" },
+  { id: 26, name: "Grace Turner", email: "grace.turner@example.com", contact: "555-678-3210", address: "258 Aspen St, Miami, FL", dateOfBirth: "1992-07-07", gender: "Female" },
+  { id: 27, name: "Henry Parker", email: "henry.parker@example.com", contact: "555-789-2109", address: "369 Elm Ave, Atlanta, GA", dateOfBirth: "1989-10-10", gender: "Male" },
+  { id: 28, name: "Lily Campbell", email: "lily.campbell@example.com", contact: "555-890-1098", address: "147 Cedar Ln, Minneapolis, MN", dateOfBirth: "1993-12-12", gender: "Female" }
+];
+
+export default usersData;

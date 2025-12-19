@@ -1,0 +1,8 @@
+/* Import the core Tailwind CSS framework */
+@import "tailwindcss";
+
+/* Import the Flowbite React plugin for Tailwind CSS components and utilities */
+@import "flowbite-react/plugin/tailwindcss";
+
+/* Import a source JSON file containing Flowbite React class lists (used for JIT/utility generation) */
+@source "../.flowbite-react/class-list.json";
