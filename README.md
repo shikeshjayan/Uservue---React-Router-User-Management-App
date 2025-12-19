@@ -16,20 +16,14 @@
 - **📱 Fully Responsive** - Mobile-first CSS design
 - **🎁 Bonus Pages** - Contact
 
-## 📱 Screenshots
+## 📱 Live Demo Screenshots
 
-| Home Page | Users List | User Detail |
-|-----------|------------|-------------|
-| ![Home](<img width="1920" height="1005" alt="Home" src="https://github.com/user-attachments/assets/489257f3-c3ae-4f68-ba6e-c245d17c8b87" />
-) | ![Users](<img width="1920" height="1468" alt="UserList" src="https://github.com/user-attachments/assets/80b462ab-d5bd-4fef-b3c2-a38b6278fa51" />
-) | ![User Detail](<img width="1920" height="1005" alt="UserDetails" src="https://github.com/user-attachments/assets/33e4f60a-9a1e-4b83-9e78-d7a67da047c0" />
-) |
+![Home Page](https://github.com/user-attachments/assets/489257f3-c3ae-4f68-ba6e-c245d17c8b87)
+![Users List](https://github.com/user-attachments/assets/80b462ab-d5bd-4fef-b3c2-a38b6278fa51)
+![User Detail `/users/1`](https://github.com/user-attachments/assets/33e4f60a-9a1e-4b83-9e78-d7a67da047c0)
 
-| About Page | Mobile View | Navbar Active |
-|------------|-------------|---------------|
-| ![About](<img width="1920" height="1005" alt="About" src="https://github.com/user-attachments/assets/07e81436-e530-4a04-9150-60aa88a83720" />
-) | ![Mobile](<img width="390" height="904" alt="MobileView" src="https://github.com/user-attachments/assets/c3ed2c10-926c-4ce2-a4ff-9abfdf2daf75" />
-) | ![Navbar](<img width="1920" height="132" alt="Navbar" src="https://github.com/user-attachments/assets/fa679a45-a031-4cd8-9693-5f1e5bee3681" />
+![About Page](https://github.com/user-attachments/assets/07e81436-e530-4a04-9150-60aa88a83720) ![Mobile Responsive](https://github.com/user-attachments/assets/c3ed2c10-926c-4ce2-a4ff-9abfdf2daf75) ![Active Navbar](https://github.com/user-attachments/assets/fa679a45-a031-4cd8-9693-5f1e5bee3681)
+
 ) |
 
 ## 🏗️ Project Structure
